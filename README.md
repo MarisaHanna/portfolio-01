@@ -11,7 +11,7 @@ Version 1.0
 
 # Images
 
- ![screen shot](../images/Screen-shot.png)
+ ![screen shot](./images/Screen-shot.png)
 
  # Languages Used
 
