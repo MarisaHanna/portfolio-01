@@ -11,7 +11,7 @@ Version 1.0
 
 # Images
 
- ![screen shot](../images/Screen-shot 2021-02-18 at 2.30.20 PM.png)
+ ![screen shot](../images/Screen-shot.png)
 
  # Languages Used
 
